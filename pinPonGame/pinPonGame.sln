@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pinPonGame", "pinPonGame\pinPonGame.csproj", "{674B3222-D475-4AD9-AD16-40BEC2F50DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674B3222-D475-4AD9-AD16-40BEC2F50DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674B3222-D475-4AD9-AD16-40BEC2F50DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674B3222-D475-4AD9-AD16-40BEC2F50DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674B3222-D475-4AD9-AD16-40BEC2F50DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74270867-26D8-4901-ADDE-565FCE3B5D66}
+	EndGlobalSection
+EndGlobal

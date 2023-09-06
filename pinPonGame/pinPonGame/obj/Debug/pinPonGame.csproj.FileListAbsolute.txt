@@ -1,0 +1,10 @@
+C:\Users\YASİN\Desktop\pinPongame\pinPonGame\pinPonGame\bin\Debug\pinPonGame.exe.config
+C:\Users\YASİN\Desktop\pinPongame\pinPonGame\pinPonGame\bin\Debug\pinPonGame.exe
+C:\Users\YASİN\Desktop\pinPongame\pinPonGame\pinPonGame\bin\Debug\pinPonGame.pdb
+C:\Users\YASİN\Desktop\pinPongame\pinPonGame\pinPonGame\obj\Debug\pinPonGame.csproj.AssemblyReference.cache
+C:\Users\YASİN\Desktop\pinPongame\pinPonGame\pinPonGame\obj\Debug\pinPonGame.gameForm.resources
+C:\Users\YASİN\Desktop\pinPongame\pinPonGame\pinPonGame\obj\Debug\pinPonGame.Properties.Resources.resources
+C:\Users\YASİN\Desktop\pinPongame\pinPonGame\pinPonGame\obj\Debug\pinPonGame.csproj.GenerateResource.cache
+C:\Users\YASİN\Desktop\pinPongame\pinPonGame\pinPonGame\obj\Debug\pinPonGame.csproj.CoreCompileInputs.cache
+C:\Users\YASİN\Desktop\pinPongame\pinPonGame\pinPonGame\obj\Debug\pinPonGame.exe
+C:\Users\YASİN\Desktop\pinPongame\pinPonGame\pinPonGame\obj\Debug\pinPonGame.pdb
